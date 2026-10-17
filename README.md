@@ -1,4 +1,4 @@
-⚙️ Portofolio Otomatisasi: Automated Market Data Pipeline
+⚙️ Automated Market Data Pipeline
 
 Selamat datang di repositori Automated Market Data Pipeline. Proyek ini adalah demonstrasi sistem otomatisasi data (data automation) ujung-ke-ujung yang dirancang untuk membantu bisnis mengumpulkan, membersihkan, dan menganalisis data produk secara efisien.
 
